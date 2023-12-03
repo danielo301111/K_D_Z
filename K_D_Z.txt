@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="K_D_Z" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/cn6ezq0x1fyjlp78ga6sh/nowa-sk-ra-KDZ.zip?rlkey=kzjftg77clkluddsp7nk5qezw&dl=1"
+url="https://www.dropbox.com/scl/fi/lhkv85p9ivptkvxgd5hur/nowa-sk-ra-KDZ.zip?rlkey=cfl49yx7f919qw3l8iwmkepk1&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
